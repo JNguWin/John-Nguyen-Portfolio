@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+nav{
+    padding: 0px;
+    margin: 0px;
+    border: 100px;
+    border-color: aqua;
+}
+body{
+    display: grid;
+    background-color: black;
+}
+p{
+    color: white;
+}
+a{
+    width: 200px;
+}
