@@ -1,11 +1,11 @@
 *{
-    display: grid;
+    padding: 0px;
+    margin: 0px;
     box-sizing: border-box;
 }
-#nav{
+nav{
     display: grid;
     grid-template-columns: auto, auto, auto, auto, auto, auto;
-    grid-column-start: 1;
 }
 body{
     display: grid;
