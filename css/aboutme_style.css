@@ -18,3 +18,23 @@ nav a{
 body{
     background-color: black;
 }
+#Divider{
+    width: 90%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 4%;
+    padding: 20px;
+    margin: 0 auto;
+}
+#left-container{
+    display: grid;
+    grid-template-columns: auto;
+}
+#right-container{
+    display: grid;
+    grid-template-columns: auto;
+    border-color: purple;
+}
+.blue{
+    color: rgb(59, 187, 219);
+}
