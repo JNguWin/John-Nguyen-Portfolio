@@ -10,10 +10,10 @@ nav{
 nav a{
     text-align: center;
     padding: 10px;
-    border: 1px solid purple;
+    border: 1px solid silver;
     border-width: medium;
     background-color: black;
-    color: purple;
+    color: silver;
 }
 #container{
     display: grid;

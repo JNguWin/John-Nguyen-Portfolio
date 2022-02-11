@@ -10,13 +10,13 @@ nav{
 nav a{
     text-align: center;
     padding: 10px;
-    border: 1px solid purple;
+    border: 1px solid silver;
     border-width: medium;
     background-color: black;
-    color: purple;
+    color: silver;
 }
 body{
-    background-color: black;
+    background-color: silver;
 }
 #Divider{
     width: 90%;
@@ -29,11 +29,13 @@ body{
 #left-container{
     display: grid;
     grid-template-columns: auto;
+    background-color: black;
 }
 #right-container{
     display: grid;
     grid-template-columns: auto;
-    border-color: purple;
+    border-color: silver;
+    background-color: black;
 }
 .blue{
     color: rgb(59, 187, 219);
