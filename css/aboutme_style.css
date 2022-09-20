@@ -29,7 +29,7 @@ body{
 #left-container{
     display: grid;
     grid-template-columns: auto;
-    background-color: black;
+    background-color: silver;
 }
 #right-container{
     display: grid;
@@ -37,7 +37,9 @@ body{
     text-align: center;
     border-color: silver;
     background-color: black;
+    padding: 20px;
 }
 .blue{
     color: rgb(59, 187, 219);
 }
+
