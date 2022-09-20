@@ -19,10 +19,10 @@ body{
     background-color: silver;
 }
 #Divider{
-    width: 90%;
+    width: 100%;
     display: grid;
     grid-template-columns: 50% 50%;
-    gap: 4%;
+    gap: 2%;
     padding: 20px;
     margin: 0 auto;
 }
@@ -34,6 +34,7 @@ body{
 #right-container{
     display: grid;
     grid-template-columns: auto;
+    text-align: center;
     border-color: silver;
     background-color: black;
 }
